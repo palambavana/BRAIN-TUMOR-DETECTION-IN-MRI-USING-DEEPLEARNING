@@ -1,10 +1,26 @@
-# Brain-Tumor-Detector
-Building a detection model using a convolutional neural network in Tensorflow & Keras.<br>
-Used a brain MRI images data founded on Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).<br>
+# Brain Tumor Detection in MRI Using Deep Learning
 
-**About the data:**<br>
-The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous.
+## 📌 Project Overview
 
+This project focuses on building a brain tumor detection model using a Convolutional Neural Network (CNN) with TensorFlow and Keras.
+
+The model uses brain MRI image data to classify images as tumorous or non-tumorous.
+
+## 🛠️ Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- Convolutional Neural Network (CNN)
+- Jupyter Notebook
+
+## 📊 Dataset
+
+The dataset contains 253 brain MRI images:
+- 155 tumorous images
+- 98 non-tumorous images
+
+The dataset was obtained from Kaggle.
 # Getting Started
 
 **Note:** sometimes viewing IPython notebooks using GitHub viewer doesn't work as expected, so you can always view them using [nbviewer](https://nbviewer.jupyter.org/).
